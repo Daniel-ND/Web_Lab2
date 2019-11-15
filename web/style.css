@@ -1,0 +1,65 @@
+
+body {
+    background-color: #AFEEEE;
+    overflow: hidden;
+}
+
+.input{
+    margin-left: 10%;
+}
+
+th#cap{
+    background-color: #4682B4;
+    font-style: italic;
+    font-size: 1em;
+    text-decoration-color: #084ca1;
+    text-decoration-style: wavy;
+    color: #AFEEEE;
+}
+
+th.column{
+    width: 50%;
+    background-color:#87CEEB;
+}
+
+button:hover{
+    background-color: #4682B4;
+}
+
+table#main{
+    width: 98%;
+    height: 98%;
+    border: 1;
+    position: absolute;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+fieldset{
+    width: 70%;
+    margin: auto;
+}
+
+[id^=btn] {
+    border: 2px solid black;
+    text-align: center;
+    width: 15%;
+    background-color: #aaaaff;
+}
+
+table, th, td{
+    width: 600px;
+    font-size: 16pt;
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+div {
+    width:auto;
+    height: 550px;
+}
+.kek{
+    overflow:scroll;
+}
+
